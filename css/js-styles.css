@@ -1,0 +1,124 @@
+#top-header {
+    border-bottom: 3px solid rgb( 158,210,246 );
+    
+}
+
+#intro-center {
+    height: 140px;
+    width: 100%;
+    margin: 10px 0;
+    background: rgb( 158,210,246 );
+    background-image: url(../assets/img/hooly.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+    text-align: center;
+}
+
+.intro-bracket-l, .intro-bracket-r {
+    width: auto;
+    font-size: 300px;
+    font-weight: 600;
+    line-height: 140px;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    text-shadow: none;
+}
+.intro-bracket-l {
+    margin-right: 500px;
+}
+h2#intro-headline { font-size: 3.6em; font-family: 'Fira Sans', sans-serif; }
+p#intro-tagline {
+    font-size: 1.2em;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.blue { color: rgb( 72,164,231 ); }
+.lblue { color: rgb( 158,210,246 ); }
+.dblue { color: rgb( 9,124,205 ); }
+.green { color: rgb( 62,234,156 ); }
+.purple { color: rgb( 224,203,253 ); }
+
+
+
+/*  ----------------------------------------
+    ----------------------------------------
+    ABOUT ME SECTION
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
+    ----------------------------------------
+    ----------------------------------------  */
+#about-me {
+    
+}
+#izooky-icons {
+    text-align: center;
+}
+#izooky-icons img {
+    display: block;
+   
+}
+
+/*  ----------------------------------------
+    ----------------------------------------
+    LATEST WORKS - WEB
+    ----------------------------------------
+    ----------------------------------------  */
+#izooky img {
+    overflow: hidden;
+}
+
+/*  ----------------------------------------
+    ----------------------------------------
+    SKILLS
+    ----------------------------------------
+    ----------------------------------------  */
+#skills {
+    background: rgb( 158,210,246 );
+}
+#adobe-icons {
+    text-align: center;
+}
+#adobe-icons img{
+    display: inline-block;;
+    height: 100px;
+    width: 100px;
+    margin: 10px 20px;
+}
+#os-icons {
+    text-align: center;
+    margin: 40px auto 0 auto;
+}
+#os-icons img {
+    background: rgba( 255,255,255,0.8 );
+    border-radius: 16px;
+    padding: 20px;
+    display: inline-block;
+    box-shadow: 4px 4px 4px rgba( 0,0,0,0.4 );
+    height: 95px;
+    width: 95px;
+    margin: 10px 20px;
+}
+/*  ----------------------------------------
+    ----------------------------------------
+    WORK EXPERIENCE
+    ----------------------------------------
+    ----------------------------------------  */
+
+
+/*  ----------------------------------------
+    ----------------------------------------
+    OTHER WORK - ICONS, GRAPHICS
+    ----------------------------------------
+    ----------------------------------------  */
+
+
+
+/*  ----------------------------------------
+    ----------------------------------------
+    CONTACT
+    ----------------------------------------
+    ----------------------------------------  */
